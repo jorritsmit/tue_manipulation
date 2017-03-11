@@ -10,11 +10,14 @@ int main(int argc, char** argv)
     ROS_INFO("Starting grasp precompute node");
 
     ros::init(argc, argv, "grasp_precompute_server");
+    
+    ros::AsyncSpinner spinner(4); // Use 4 threads
+    spinner.start();
 
     GraspPrecompute gp;
     if (gp.initialize())
     {
-      ros::spin();
+      ros::waitForShutdown();
     }
     else
     {

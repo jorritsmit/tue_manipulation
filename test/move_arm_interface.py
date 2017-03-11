@@ -79,6 +79,11 @@ class MoveArmInterface(object):
             rospy.logwarn("Could not find a valid trajectory to specified pose.")
             return False
 
+        rospy.loginfo("Retiming trajectory ..")
+        #plan = self._group.retime_trajectory(self._robot.get_current_state(), plan, 1.0)
+        print plan
+
+        rospy.loginfo("Visualizing and executing trajectory ..")
         self._visualize_plan(plan)
         return self._group.execute(plan, wait)
 

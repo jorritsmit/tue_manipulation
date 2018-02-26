@@ -1,0 +1,1402 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Pre",
+				"PrepareEdGrasp"
+			],
+			[
+				"cont",
+				"continue"
+			],
+			[
+				"res",
+				"RespSig2\tstd::vector<float> RespSig2"
+			],
+			[
+				"Res",
+				"RespSig\tstd::vector<float> RespSig"
+			],
+			[
+				"size",
+				"size_t\tsize_t"
+			],
+			[
+				"Frem",
+				"Frames"
+			],
+			[
+				"T",
+				"TEST_F"
+			],
+			[
+				"copy",
+				"copyTo\tvoid copyTo(OutputArray m) const"
+			],
+			[
+				"se",
+				"size\tcv::Mat::MSize size"
+			],
+			[
+				"BOrder",
+				"BORDER_CONSTANT\tenum <anonymous> BORDER_CONSTANT"
+			],
+			[
+				"Filter",
+				"filter2D\tvoid filter2D(InputArray src, OutputArray dst, int ddepth, InputArray kernel)"
+			],
+			[
+				"CV_8",
+				"CV_8U\tCV_8U"
+			],
+			[
+				"EXPECT_EQ",
+				"EXPECT_FLOAT_EQ\tEXPECT_FLOAT_EQ(val1, val2)"
+			],
+			[
+				"resp",
+				"respVelocityM"
+			],
+			[
+				"respS",
+				"respSigM\tstd::vector<float> respSigM"
+			],
+			[
+				"compe",
+				"computeFlowXM\tstd::vector<cv::Mat> computeFlowXM"
+			],
+			[
+				"Image",
+				"Image\tcv::Mat Image"
+			],
+			[
+				"down",
+				"downSampleM\tstd::vector<cv::Mat> downSampleM"
+			],
+			[
+				"Plt",
+				"plot\tbool plot(const std::vector<Numeric> &x, const std::vector<Numeric> &y, const std::map<std::string, std::string> &keywords)"
+			],
+			[
+				"pr",
+				"processVideo\tint processVideo(std::string path)"
+			],
+			[
+				"Df",
+				"DFlowX\tcv::Mat DFlowX"
+			],
+			[
+				"FLo",
+				"FlowFieldX\tcv::Mat FlowFieldX"
+			],
+			[
+				"TF",
+				"TFlowX\tcv::Mat TFlowX"
+			],
+			[
+				"TFL",
+				"TFlowY\tcv::Mat TFlowY"
+			],
+			[
+				"Flow",
+				"FlowFieldX"
+			],
+			[
+				"TFl",
+				"TFlowX\tcv::Mat TFlowX"
+			],
+			[
+				"gra",
+				"GradientMagnitude\tcv::Mat GradientMagnitude"
+			],
+			[
+				"t",
+				"type\tint type() const"
+			],
+			[
+				"filter",
+				"filter2D\tvoid filter2D(InputArray src, OutputArray dst, int ddepth, InputArray kernel)"
+			],
+			[
+				"frame",
+				"FrameIdx\tsize_t FrameIdx"
+			],
+			[
+				"Imag",
+				"Image\tcv::Mat Image"
+			],
+			[
+				"Frame",
+				"FrameIdx\tsize_t FrameIdx"
+			],
+			[
+				"com",
+				"computeRespSig\tvoid computeRespSig()"
+			],
+			[
+				"CV32",
+				"CV_32F\tCV_32F"
+			],
+			[
+				"itsPha",
+				"itsPhaseEigCos"
+			],
+			[
+				"its",
+				"itsPhase\tCompExpMat itsPhase"
+			],
+			[
+				"itsPh",
+				"itsPhaseEigSin\tM itsPhaseEigSin"
+			],
+			[
+				"itsR",
+				"itsREigReal\tM itsREigReal"
+			],
+			[
+				"elap",
+				"elapsed"
+			],
+			[
+				"PROJE",
+				"PROJECT_NAME"
+			],
+			[
+				"itsHi",
+				"itsHighFrequency"
+			],
+			[
+				"lom",
+				"lomaskPrev_"
+			],
+			[
+				"lomas",
+				"lomaskPrev_"
+			],
+			[
+				"angel",
+				"anglemaskM"
+			],
+			[
+				"M",
+				"MatrixXd"
+			],
+			[
+				"angle",
+				"angleMask_"
+			],
+			[
+				"ange",
+				"anglemaskM"
+			],
+			[
+				"log",
+				"log_radM"
+			],
+			[
+				"spat",
+				"spatFilt"
+			],
+			[
+				"Matrix",
+				"MatrixXd"
+			],
+			[
+				"sp",
+				"spatFilt"
+			],
+			[
+				"delt",
+				"deltaFrame"
+			],
+			[
+				"delta",
+				"deltaFrameFilt"
+			],
+			[
+				"filt",
+				"filtIDX1\tstd::vector<std::vector<int> > filtIDX1"
+			],
+			[
+				"dat",
+				"dataFrame2"
+			],
+			[
+				"recon",
+				"reconlvlM"
+			],
+			[
+				"PROJ",
+				"PROJECT_LABEL"
+			],
+			[
+				"tw",
+				"twidth"
+			],
+			[
+				"orie",
+				"orientations"
+			],
+			[
+				"ori",
+				"orientations_"
+			],
+			[
+				"rv",
+				"rVals"
+			],
+			[
+				"rva",
+				"rVals_"
+			],
+			[
+				"dim",
+				"dimensions"
+			],
+			[
+				"dimen",
+				"dimensions_"
+			],
+			[
+				"inc",
+				"include"
+			],
+			[
+				"data",
+				"dataHandler"
+			],
+			[
+				"im",
+				"im_dft"
+			],
+			[
+				"output",
+				"outputVideo"
+			],
+			[
+				"ope",
+				"open\tbool open(const cv::String &filename, int fourcc, double fps, Size frameSize)"
+			],
+			[
+				"outp",
+				"outputVideo"
+			],
+			[
+				"pus",
+				"push_back\tvoid push_back(value_type &&__x)"
+			],
+			[
+				"mag",
+				"magnifiedLuma"
+			],
+			[
+				"man",
+				"magnifiedLuma"
+			],
+			[
+				"Mar",
+				"MatrixXf"
+			],
+			[
+				"fram",
+				"frameIDX"
+			],
+			[
+				"fil",
+				"filtIDX1"
+			],
+			[
+				"f",
+				"filtIDX1\tstd::vector<Eigen::MatrixXf> filtIDX1"
+			],
+			[
+				"pointer_t",
+				"pointer_to_unary_function\tpointer_to_unary_function<typename _Arg, typename _Result>"
+			],
+			[
+				"un",
+				"unaryExpr\tconst CwiseUnaryOp<CustomUnaryOp, const Eigen::Matrix<float, -1, -1, 0, -1, -1> > MatrixBase<Matrix<float, -1, -1, 0, -1, -1> >::unaryExpr() const"
+			],
+			[
+				"dataFr",
+				"dataFrameFFT"
+			],
+			[
+				"fild",
+				"filtIDX2"
+			],
+			[
+				"int",
+				"intFrame"
+			],
+			[
+				"dta",
+				"dataVideo"
+			],
+			[
+				"loma",
+				"lomaskPrev"
+			],
+			[
+				"liked",
+				"likedTracks〔variable〕"
+			],
+			[
+				"sub",
+				"sub_lists_str"
+			],
+			[
+				"subl",
+				"sub_lists_str"
+			],
+			[
+				"SETTING",
+				"SETTING_SUB_LISTS_FILE_PATH"
+			],
+			[
+				"li",
+				"library"
+			],
+			[
+				"sub_li",
+				"sub_lists_list"
+			],
+			[
+				"get",
+				"get_setting"
+			],
+			[
+				"sele",
+				"selected"
+			],
+			[
+				"bu",
+				"button"
+			],
+			[
+				"Bu",
+				"Button"
+			],
+			[
+				"DSM",
+				"DSMlayout〔class〕"
+			],
+			[
+				"si",
+				"size_hint_x"
+			],
+			[
+				"alig",
+				"halign"
+			],
+			[
+				"Bo",
+				"BoxLayout\tKivy"
+			],
+			[
+				"clust",
+				"clusters〔variable〕"
+			],
+			[
+				"c",
+				"cutvalue"
+			],
+			[
+				"dege",
+				"degree_tresshold〔variable〕"
+			],
+			[
+				"node",
+				"node_dict〔variable〕"
+			],
+			[
+				"interaction",
+				"interaction_weight"
+			],
+			[
+				"Vol",
+				"VolkerakCase〔variable〕"
+			],
+			[
+				"Volk",
+				"VolkerakCase"
+			],
+			[
+				"CV",
+				"CVPin"
+			],
+			[
+				"TImerST",
+				"TimerStartMin"
+			],
+			[
+				"Cur",
+				"CurrentHum"
+			],
+			[
+				"prev",
+				"PrevHum"
+			],
+			[
+				"CUre",
+				"CurrentTemp"
+			],
+			[
+				"Cure",
+				"CurrentHum"
+			],
+			[
+				"V",
+				"View"
+			],
+			[
+				"dra",
+				"drawFramework"
+			],
+			[
+				"minute",
+				"Minute"
+			],
+			[
+				"dig",
+				"digitalWrite\tArduino digitalWrite"
+			],
+			[
+				"Set",
+				"SetTemp"
+			],
+			[
+				"current",
+				"CurrentTemp"
+			],
+			[
+				"VG",
+				"VGA_WHITE"
+			],
+			[
+				"set",
+				"setColor"
+			],
+			[
+				"Timer",
+				"TimerSetTemp"
+			],
+			[
+				"TimerSt",
+				"TimerStartMin"
+			],
+			[
+				"if",
+				"ifelse\tArduino if-else"
+			],
+			[
+				"TimerSta",
+				"TimerStartMin"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/C++ Starting Kit/C++ - Starting Kit.sublime-build",
+					""
+				],
+				[
+					"Packages/C++ Starting Kit/C++ - Starting Kit.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/Cmake.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Cmake.sublime-build",
+					"Run all tests"
+				],
+				[
+					"Packages/User/Cmake.sublime-build",
+					"Build and run"
+				]
+			],
+			[
+				"Packages/User/Cmake.sublime-build",
+				"Build and run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/C++ Starting Kit/C++ - Starting Kit.sublime-build",
+					""
+				],
+				[
+					"Packages/C++ Starting Kit/C++ - Starting Kit.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/Cmake.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Cmake.sublime-build",
+					"Run all tests"
+				],
+				[
+					"Packages/User/Cmake.sublime-build",
+					"Build and run"
+				],
+				[
+					"Packages/User/Cmake.sublime-build",
+					"Clean"
+				]
+			],
+			[
+				"Packages/User/Cmake.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/C++ Starting Kit/C++ - Starting Kit.sublime-build",
+					""
+				],
+				[
+					"Packages/C++ Starting Kit/C++ - Starting Kit.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/cmake.sublime-build",
+					""
+				],
+				[
+					"Packages/User/cmake.sublime-build",
+					"run all tests"
+				],
+				[
+					"Packages/User/cmake.sublime-build",
+					"build and run"
+				]
+			],
+			[
+				"Packages/User/cmake.sublime-build",
+				"build and run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/Cmake.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Cmake.sublime-build",
+					"Run all tests"
+				],
+				[
+					"Packages/User/Cmake.sublime-build",
+					"Build and run"
+				],
+				[
+					"Packages/User/Cmake.sublime-build",
+					"Clean"
+				]
+			],
+			[
+				"Packages/User/Cmake.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"pbmoma - all",
+					""
+				],
+				[
+					"pbmoma - clean",
+					""
+				],
+				[
+					"pbmoma - edit_cache",
+					""
+				],
+				[
+					"pbmoma - pbmoma",
+					""
+				],
+				[
+					"pbmoma - pbmoma/fast",
+					""
+				],
+				[
+					"pbmoma - pipeline",
+					""
+				],
+				[
+					"pbmoma - pipeline/fast",
+					""
+				],
+				[
+					"pbmoma - rebuild_cache",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				],
+				[
+					"Packages/C++ Starting Kit/C++ - Starting Kit.sublime-build",
+					""
+				],
+				[
+					"Packages/C++ Starting Kit/C++ - Starting Kit.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"pbmoma - all",
+				""
+			]
+		],
+		[
+			[
+				[
+					"pbmoma - all",
+					""
+				],
+				[
+					"pbmoma - clean",
+					""
+				],
+				[
+					"pbmoma - edit_cache",
+					""
+				],
+				[
+					"pbmoma - pbmoma",
+					""
+				],
+				[
+					"pbmoma - pbmoma/fast",
+					""
+				],
+				[
+					"pbmoma - pipeline",
+					""
+				],
+				[
+					"pbmoma - pipeline/fast",
+					""
+				],
+				[
+					"pbmoma - rebuild_cache",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				]
+			],
+			[
+				"pbmoma - all",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 74.0,
+		"last_filter": "autofor",
+		"selected_items":
+		[
+			[
+				"autofor",
+				"Anaconda: Autoformat PEP8 Errors"
+			],
+			[
+				"remop",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"package control",
+				"Package Control: Enable Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ign",
+				"Package Control: List Unmanaged Packages"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"git pus",
+				"Git: Push"
+			],
+			[
+				"git quic",
+				"Git: Quick Commit (repo)"
+			],
+			[
+				"git add",
+				"Git: Add All"
+			],
+			[
+				"autopep",
+				"Preferences: AutoPep8 Key Bindings – Default"
+			],
+			[
+				"sublimelinter settigs",
+				"Preferences: SublimeLinter Settings"
+			],
+			[
+				"git push",
+				"Git: Push"
+			],
+			[
+				"git comm",
+				"Git: Commit"
+			],
+			[
+				"pep8",
+				"Preferences: AutoPep8 Settings – User"
+			],
+			[
+				"git qui",
+				"Git: Quick Commit (repo)"
+			],
+			[
+				"git cu",
+				"Git: Custom Command"
+			],
+			[
+				"git pull",
+				"Git: Pull"
+			],
+			[
+				"git cust",
+				"Git: Custom Command"
+			],
+			[
+				"git cus",
+				"Git: Custom Command"
+			],
+			[
+				"git p",
+				"Git: Pull"
+			],
+			[
+				"git status",
+				"Git: Status"
+			],
+			[
+				"error",
+				"BracketHighlighter: Match Brackets (ignore threshold)"
+			],
+			[
+				"qui",
+				"Git: Quick Commit (repo)"
+			],
+			[
+				"style",
+				"Clang Format: Select Style"
+			],
+			[
+				"chan",
+				"Git: Change Branch"
+			],
+			[
+				"git cha",
+				"Git: Change Branch"
+			],
+			[
+				"git reset",
+				"Git: Reset (hard) HEAD"
+			],
+			[
+				"git ch",
+				"Git: Change Branch"
+			],
+			[
+				"git st",
+				"Git: Status"
+			],
+			[
+				"change b",
+				"Git: Change Branch"
+			],
+			[
+				"git fe",
+				"Git: Fetch"
+			],
+			[
+				"git r",
+				"Git: Track Remote Branch"
+			],
+			[
+				"git tra",
+				"Git: Track Remote Branch"
+			],
+			[
+				"git quick",
+				"Git: Quick Commit (repo)"
+			],
+			[
+				"cha",
+				"Git: Change Branch"
+			],
+			[
+				"chang",
+				"Git: Change Branch"
+			],
+			[
+				"git chan",
+				"Git: Change Branch"
+			],
+			[
+				"instl",
+				"Package Control: Install Package"
+			],
+			[
+				"change",
+				"Git: Change Branch"
+			],
+			[
+				"git che",
+				"Git: Change Branch"
+			],
+			[
+				"git fet",
+				"Git: Fetch"
+			],
+			[
+				"git",
+				"Git: Custom Command"
+			],
+			[
+				"git mer",
+				"Git: Merge Branch"
+			],
+			[
+				"git q",
+				"Git: Quick Commit (repo)"
+			],
+			[
+				"change br",
+				"Git: Change Branch"
+			],
+			[
+				"quick",
+				"Git: Quick Commit (repo)"
+			],
+			[
+				"git change",
+				"Git: Change Branch"
+			],
+			[
+				"git add ",
+				"Git: Add All"
+			],
+			[
+				"git bran",
+				"Git: Change Branch"
+			],
+			[
+				"git grap",
+				"Git: Graph All"
+			],
+			[
+				"git push ",
+				"Git: Push Current Branch"
+			],
+			[
+				"git stat",
+				"Git: Status"
+			],
+			[
+				"git c",
+				"Git: Commit"
+			],
+			[
+				"git bra",
+				"Git: Change Branch"
+			],
+			[
+				"branch",
+				"Git: Change Branch"
+			],
+			[
+				"git checkout ",
+				"Git: Checkout Current File"
+			],
+			[
+				"git check",
+				"Git: Checkout Tag"
+			],
+			[
+				"git statu",
+				"Git: Status"
+			],
+			[
+				"git comit",
+				"Git: Commit"
+			],
+			[
+				" add",
+				"Git: Add All"
+			],
+			[
+				"linter",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"resour",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"res",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"packre",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"form",
+				"Clang Format: Format Selection"
+			],
+			[
+				"for",
+				"Clang Format: Select Style"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"list pa",
+				"Package Control: List Packages"
+			],
+			[
+				"li",
+				"Package Control: List Packages"
+			],
+			[
+				"pac",
+				"Package Control: List Packages"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"prefs",
+				"Preferences: SublimeLinter Settings – User"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"cla",
+				"Clang Format: Format Selection"
+			],
+			[
+				"snippe",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 623.0
+	},
+	"console":
+	{
+		"height": 223.0,
+		"history":
+		[
+			"error",
+			"window.run_command(\"ansi_color_build\", args={\"kill\": True})"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/jorrit/Documents/Cloud/Stack/TU/Afstuderen/Code/tue_manipulation"
+	],
+	"file_history":
+	[
+		"/home/jorrit/.config/sublime-text-3/Packages/User/Anaconda.sublime-settings",
+		"/home/jorrit/Documents/Cloud/Stack/TU/Afstuderen/Code/js_tue_robocup/tue_robocup/robot_skills/src/robot_skills/robot_part.py",
+		"/home/jorrit/Documents/Cloud/Stack/TU/Afstuderen/Code/js_tue_robocup/tue_robocup/challenge_supervisor/src/supervisor.py",
+		"/home/jorrit/Documents/Cloud/Stack/TU/Afstuderen/Code/js_tue_robocup/tue_robocup/robot_smach_states/src/robot_smach_states/supervisor_impl/__init__.py",
+		"/home/jorrit/.config/sublime-text-3/Packages/AutoPEP8/Default.sublime-keymap",
+		"/home/jorrit/Documents/Cloud/Stack/TU/Afstuderen/Code/js_tue_robocup/tue_robocup/robot_smach_states/src/robot_smach_states/human_interaction/human_interaction.py",
+		"/home/jorrit/Documents/Cloud/Stack/TU/Afstuderen/Code/js_tue_robocup/tue_robocup/challenge_demo/src/demo.py",
+		"/home/jorrit/Documents/Cloud/Stack/TU/Afstuderen/Code/js_tue_robocup/tue_robocup/robot_skills/src/robot_skills/api.py",
+		"/home/jorrit/Documents/Cloud/Stack/TU/Afstuderen/Code/js_tue_robocup/tue_robocup/tue_robucup.sublime-project",
+		"/home/jorrit/.config/sublime-text-3/Packages/User/AutoPep8.sublime-settings",
+		"/home/jorrit/.config/sublime-text-3/Packages/AutoPep8/Default.sublime-keymap",
+		"/home/jorrit/.config/sublime-text-3/Packages/AutoPep8/AutoPep8.sublime-settings",
+		"/home/jorrit/tue_robocup",
+		"/home/jorrit/Documents/Cloud/Stack/Projecten/Programming/WearlessTech/phase-base-video-magnification/rrpff/arm-gnueabi.toolchain.cmake",
+		"/home/jorrit/Documents/Cloud/Stack/Projecten/Programming/WearlessTech/phase-base-video-magnification/rrpff/CMakeLists.txt",
+		"/home/jorrit/Documents/Cloud/Stack/Projecten/Programming/WearlessTech/phase-base-video-magnification/rrpff/src/processing/respiration.cpp",
+		"/home/jorrit/Documents/Cloud/Stack/Projecten/Programming/WearlessTech/phase-base-video-magnification/rrpff/src/main_for_lib.cpp",
+		"/home/jorrit/Documents/Cloud/Stack/Projecten/Programming/WearlessTech/phase-base-video-magnification/rrpff/src/processing/respiration.hpp",
+		"/home/jorrit/Documents/Cloud/Stack/Projecten/Programming/phase-base-video-magnification/rrpff/src/helpers/plotSig.hpp",
+		"/home/jorrit/Documents/Cloud/Stack/Projecten/Programming/phase-base-video-magnification/rrpff/src/helpers/matplotlibcpp.h",
+		"/home/jorrit/Documents/Cloud/Stack/Projecten/Programming/phase-base-video-magnification/rrpff/src/processing/respiration.hpp",
+		"/home/jorrit/Documents/Cloud/Stack/Projecten/Programming/phase-base-video-magnification/rrpff/CMakeLists.txt",
+		"/home/jorrit/Documents/Cloud/Stack/Projecten/Programming/phase-base-video-magnification/rrpff/src/processing/respiration.cpp",
+		"/home/jorrit/Documents/Cloud/Stack/Projecten/Programming/phase-base-video-magnification/rrpff/src/tests/tests.cpp",
+		"/home/jorrit/Documents/Cloud/Stack/Projecten/Programming/phase-base-video-magnification/rrpff/rrpff.sublime-project",
+		"/build/glibc-jxM2Ev/glibc-2.24/sysdeps/unix/sysv/linux/raise.c",
+		"/home/jorrit/Documents/Cloud/Stack/Projecten/Programming/phase-base-video-magnification/rrpff/src/main.cpp",
+		"/home/jorrit/Documents/Cloud/Stack/Projecten/Programming/phase-base-video-magnification/rrpff/bin/data/respSigM",
+		"/home/jorrit/Documents/Cloud/Stack/Projecten/Programming/phase-base-video-magnification/rrpff/bin/data/downSampleM2",
+		"/build/glibc-cxyGtm/glibc-2.24/sysdeps/unix/sysv/linux/raise.c",
+		"/home/jorrit/Documents/Cloud/Stack/Projecten/Programming/phase-base-video-magnification/rrpff/bin/data/imageM8",
+		"/usr/include/python2.7/abstract.h",
+		"/home/jorrit/Documents/Cloud/Stack/Projecten/Programming/phase-base-video-magnification/rrpff/.gitignore",
+		"/home/jorrit/Documents/Cloud/Stack/Projecten/Programming/phase-base-video-magnification/magnifymotion/src/helpers/VideoSource.hpp",
+		"/build/glibc-cxyGtm/glibc-2.24/stdlib/abort.c",
+		"/home/jorrit/.config/sublime-text-3/Packages/Clang Format/clang_format.sublime-settings",
+		"/home/jorrit/.config/sublime-text-3/Packages/User/clang_format.sublime-settings",
+		"/home/jorrit/Documents/Cloud/Stack/Projecten/Programming/phase-base-video-magnification/magnifymotion/CMakeLists.txt",
+		"/home/jorrit/Documents/Cloud/Stack/Projecten/Programming/phase-base-video-magnification/magnifymotion/src/pipeline/riesztransform.hpp",
+		"/home/jorrit/Documents/Cloud/Stack/Projecten/Programming/phase-base-video-magnification/rrpff/src/processing/Respiration.cpp",
+		"/home/jorrit/Documents/Cloud/Stack/Projecten/Programming/Metalliq_jorrit/plugin.video.metalliq/default.py",
+		"/home/jorrit/Documents/Cloud/Stack/Projecten/Programming/Metalliq_jorrit/plugin.video.metalliq/resources/lib/meta/navigation/lists.py",
+		"/home/jorrit/Documents/Cloud/Stack/Projecten/Programming/phase-base-video-magnification/magnifymotion/src/helpers/sliding_dft.hpp",
+		"/home/jorrit/kodi.log",
+		"/home/jorrit/Documents/Cloud/Stack/Projecten/Programming/phase-base-video-magnification/magnifymotion/riesz.sublime-project",
+		"/home/jorrit/Documents/Cloud/Stack/Projecten/Programming/phase-base-video-magnification/magnifymotion/src/main.cpp",
+		"/home/jorrit/Documents/Cloud/Stack/Projecten/Programming/phase-base-video-magnification/riesz/CMakeLists.txt",
+		"/home/jorrit/.config/sublime-text-3/Packages/User/Stino/app_dir.stino-settings",
+		"/home/jorrit/Programs/todotxt/.todo.actions.d/future/future.py",
+		"/home/jorrit/.config/sublime-text-3/Packages/User/Git.sublime-settings",
+		"/home/jorrit/.config/sublime-text-3/Packages/Git/Git.sublime-settings",
+		"/home/jorrit/Documents/Cloud/Stack/Projecten/Programming/phase-base-video-magnification/magnifymotion/src/helpers/CommandLine.cpp",
+		"/home/jorrit/Documents/Cloud/Stack/Projecten/Programming/phase-base-video-magnification/riesz/v2/riesz/src/helpers/DSPFilter/source/Documentation.cpp",
+		"/home/jorrit/Documents/Cloud/Stack/Projecten/Programming/phase-base-video-magnification/riesz/v2/riesz/src/helpers/VideoSource.hpp",
+		"/home/jorrit/Documents/Cloud/Stack/Projecten/Programming/phase-base-video-magnification/riesz/v2/riesz/src/pipeline/riesztransform.hpp",
+		"/home/jorrit/Documents/Cloud/Stack/Projecten/Programming/phase-base-video-magnification/riesz/v2/riesz/src/main_conflict-20170403-164824.cpp",
+		"/home/jorrit/Documents/Cloud/Stack/Projecten/Programming/phase-base-video-magnification/riesz/src/DSPFilter/CMakeLists.txt",
+		"/home/jorrit/Documents/Cloud/Stack/Projecten/Programming/phase-base-video-magnification/riesz/src/pipeline/DSPFilter/CMakeLists.txt",
+		"/home/jorrit/Documents/Cloud/Stack/Projecten/Programming/phase-base-video-magnification/riesz/build/CMakeFiles/CMakeDirectoryInformation.cmake",
+		"/home/jorrit/Documents/Cloud/Stack/Projecten/Programming/phase-base-video-magnification/riesz/src/pipeline/DSPFilters-master/shared/DSPFilters/CMakeLists.txt",
+		"/home/jorrit/Documents/Cloud/Stack/Projecten/Programming/phase-base-video-magnification/riesz/src/pipeline/DSPFilters-master/shared/CMakeLists.txt",
+		"/home/jorrit/Documents/Cloud/Stack/Projecten/Programming/phase-base-video-magnification/riesz/riesz.sublime-project",
+		"/home/jorrit/Programs/packages/opencv-2.4.9/cmake/OpenCVPCHSupport.cmake",
+		"/home/jorrit/Documents/Cloud/Stack/Projecten/Programming/phase-base-video-magnification/pbmoma/src/pipeline/SteerPyrUse.hpp",
+		"/home/jorrit/Documents/Cloud/Stack/Projecten/Programming/phase-base-video-magnification/pbmoma/src/pipeline/MotionMagnification.cpp",
+		"/home/jorrit/Documents/Cloud/Stack/Projecten/Programming/phase-base-video-magnification/pbmoma/src/pipeline/SteerPyrUse.cpp",
+		"/home/jorrit/Documents/Cloud/Stack/Projecten/Programming/phase-base-video-magnification/pbmoma/src/tests/ffttests.cpp",
+		"/home/jorrit/.config/sublime-text-3/Packages/User/Cmake.sublime-build",
+		"/home/jorrit/Documents/Cloud/Stack/Projecten/Programming/phase-base-video-magnification/pbmoma/pbmoma_conflict-20170306-231906.sublime-project",
+		"/home/jorrit/Documents/Cloud/Stack/Projecten/Programming/phase-base-video-magnification/pbmoma/pbmoma.sublime-project",
+		"/home/jorrit/.kodi/addons/plugin.video.exodus/resources/lib/modules/control.py",
+		"/home/jorrit/.kodi/addons/plugin.video.exodus/exodus.py",
+		"/usr/include/eigen3/Eigen/src/Core/functors/AssignmentFunctors.h",
+		"/build/glibc-t3gR2i/glibc-2.23/sysdeps/unix/sysv/linux/raise.c",
+		"/home/jorrit/Documents/Cloud/Stack/Projecten/Programming/phase-base-video-magnification/pbmoma/src/pipeline/TemporalFilter.hpp",
+		"/home/jorrit/Documents/Cloud/Stack/Projecten/Programming/phase-base-video-magnification/pbmoma/src/tests/ffttests.hpp",
+		"/home/jorrit/Documents/Cloud/Stack/Projecten/Programming/phase-base-video-magnification/pbmoma/src/pipeline/FFT.hpp",
+		"/home/jorrit/Documents/Cloud/Stack/Projecten/Programming/phase-base-video-magnification/pbmoma/src/pipeline/MotionMagnification.hpp",
+		"/home/jorrit/.config/sublime-text-3/Packages/User/ansi.sublime-settings",
+		"/home/jorrit/.config/sublime-text-3/Packages/ANSIescape/ansi.sublime-settings",
+		"/usr/include/eigen3/Eigen/src/plugins/CommonCwiseBinaryOps.h",
+		"/home/jorrit/Documents/Cloud/Stack/Projecten/Programming/phase-base-video-magnification/pbmoma/FindEigen3.cmake",
+		"/home/jorrit/Documents/Cloud/Stack/Projecten/Programming/phase-base-video-magnification/pbmoma/FindFFTW.cmake",
+		"/usr/include/eigen3/Eigen/Unsupported/src/FFT/ei_fftw_impl.h",
+		"/home/jorrit/Documents/Cloud/Stack/Projecten/Programming/phase-base-video-magnification/pbmoma/src/pipeline/FFThelp.hpp",
+		"/home/jorrit/Documents/Cloud/Stack/Projecten/Programming/phase-base-video-magnification/pbmoma/src/pipeline/TemporalFilter.cpp",
+		"/home/jorrit/Documents/Cloud/Stack/Projecten/Programming/phase-base-video-magnification/pbmoma/src/pipeline/DataHandler.cpp",
+		"/home/jorrit/Documents/Cloud/Stack/Projecten/Programming/phase-base-video-magnification/pbmoma/src/pipeline/DataHandler.hpp",
+		"/home/jorrit/Documents/Cloud/Stack/Projecten/Programming/phase-base-video-magnification/pbmoma/src/pipeline/FFThelp.cpp",
+		"/home/jorrit/.kodi/addons/plugin.video.exodus/addon.xml",
+		"/home/jorrit/Documents/Cloud/Stack/Projecten/Programming/phase-base-video-magnification/pbmoma/src/main.cpp",
+		"/usr/local/include/catch.hpp",
+		"/usr/include/eigen3/Eigen/src/Core/util/XprHelper.h",
+		"/usr/include/c++/5/bits/stl_vector.h",
+		"/usr/include/catch.hpp",
+		"/home/jorrit/Documents/Cloud/Stack/Projecten/Programming/phase-base-video-magnification/pbmoma/CMakeLists.txt",
+		"/home/jorrit/Documents/Cloud/Stack/Cmake.sublime-build",
+		"/home/jorrit/Documents/Cloud/Stack/Projecten/Programming/phase-base-video-magnification/pbmoma/pboma.sublime-project",
+		"/home/jorrit/Documents/Cloud/Stack/Projecten/Programming/phase base video magnification/pbmoma/src/pipeline/SteerPyrUse.cpp",
+		"/home/jorrit/Documents/Cloud/Stack/Projecten/Programming/phase base video magnification/pbmoma/src/tests/ffttests.cpp",
+		"/home/jorrit/Documents/Cloud/Stack/Projecten/Programming/phase base video magnification/pbmoma/src/pipeline/FFThelp.cpp",
+		"/home/jorrit/Documents/Cloud/Stack/Projecten/Programming/phase base video magnification/pbmoma/CMakeLists.txt",
+		"/home/jorrit/Documents/Cloud/Stack/Projecten/Programming/phase base video magnification/pbmoma/src/pipeline/MotionMagnification.cpp",
+		"/home/jorrit/Documents/Cloud/Stack/Projecten/Programming/phase base video magnification/pbmoma/src/pipeline/MotionMagnification.hpp",
+		"/home/jorrit/Documents/Cloud/Stack/Projecten/Programming/phase base video magnification/pbmoma/src/pipeline/FFThelp.hpp",
+		"/home/jorrit/.config/sublime-text-3/Packages/User/cmake.sublime-build",
+		"/home/jorrit/Documents/Cloud/Stack/TU/Internship/source/ohtrahddis-ur5controller-cf1293dbd624/ROS/src/urcontrol/src/ur_compliance_ctrl.cpp",
+		"/home/jorrit/Documents/Cloud/Stack/Projecten/Programming/phase base video magnification/pbmoma-master/src/tests/ffttests.cpp",
+		"/home/jorrit/Documents/Cloud/Stack/Projecten/Programming/phase base video magnification/pbmoma-master/src/tests/FilterTests.cpp",
+		"/home/jorrit/Documents/Cloud/Stack/Projecten/Programming/phase base video magnification/pbmoma-master/src/pipeline/MotionMagnification.cpp",
+		"/home/jorrit/Documents/Cloud/Stack/Projecten/Programming/phase base video magnification/pbmoma-master/src/pipeline/SteerPyrUse.cpp",
+		"/home/jorrit/Documents/Cloud/Stack/Projecten/Programming/phase base video magnification/pbmoma-master/src/pipeline/TemporalFilter.cpp",
+		"/home/jorrit/Documents/Cloud/Stack/Projecten/Programming/phase base video magnification/pbmoma-master/src/pipeline/TemporalFilter.hpp",
+		"/home/jorrit/Documents/Cloud/Stack/Projecten/Programming/phase base video magnification/pbmoma-master/CMakeLists.txt",
+		"/home/jorrit/Documents/Cloud/Stack/Projecten/Programming/phase base video magnification/pbmoma-master/src/pipeline/DataHandler.hpp",
+		"/home/jorrit/Documents/Cloud/Stack/Projecten/Programming/phase base video magnification/pbmoma-master/src/pipeline/FFThelp.hpp",
+		"/home/jorrit/Documents/Cloud/Stack/Projecten/Programming/phase base video magnification/pbmoma-master/src/pipeline/SteerPyrUse.hpp",
+		"/home/jorrit/Documents/Cloud/Stack/Projecten/Programming/phase base video magnification/pbmoma-master/src/pipeline/MotionMagnification.hpp",
+		"/home/jorrit/Documents/Cloud/Stack/Projecten/Programming/phase base video magnification/pbmoma-master/src/pipeline/openCVExt.cpp",
+		"/home/jorrit/Documents/Cloud/Stack/Projecten/Programming/phase base video magnification/pbmoma-master/src/pipeline/openCVExt.hpp",
+		"/home/jorrit/Documents/Cloud/Stack/Projecten/Programming/phase base video magnification/pbmoma-master/src/pipeline/FFThelp.cpp",
+		"/home/jorrit/Documents/Cloud/Stack/Projecten/Programming/phase base video magnification/pbmoma-master/.clang-format",
+		"/home/jorrit/Documents/Cloud/Stack/Projecten/Programming/phase base video magnification/pbmoma-master/trash.txt",
+		"/home/jorrit/Documents/Cloud/Stack/Projecten/Programming/Personal_lib/cv_imagetype_str.cpp",
+		"/home/jorrit/Documents/Cloud/Stack/Projecten/Programming/phase base video magnification/pbmoma-master/src/pipeline/DataHandler.cpp",
+		"/home/jorrit/Documents/Cloud/Stack/Projecten/Programming/phase base video magnification/pbmoma-master/pbmoma2.sublime-project",
+		"/home/jorrit/.config/sublime-text-3/Packages/User/clang_format_custom.sublime-settings",
+		"/home/jorrit/.config/sublime-text-3/Packages/User/SublimeLinter.sublime-settings"
+	],
+	"find":
+	{
+		"height": 48.0
+	},
+	"find_in_files":
+	{
+		"height": 132.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 42.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.autopep8":
+	{
+		"height": 172.0
+	},
+	"output.deviot":
+	{
+		"height": 112.0
+	},
+	"output.exec":
+	{
+		"height": 258.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 206.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"output.stino_build_panel":
+	{
+		"height": 0.0
+	},
+	"output.stino_panel":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 100.0
+	},
+	"pinned_build_system": "",
+	"project": "tue_manipulation.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 241.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
